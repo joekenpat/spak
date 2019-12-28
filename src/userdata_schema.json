@@ -1,0 +1,24 @@
+{
+  "_id": "5d91ed63274b1d0fe4834f76",
+  "full_name": {
+    "last_name": "Patrick",
+    "first_name": "Joel",
+    "middle_name": "Kenneth"
+  },
+  "email": "joekenpat@gmail.com",
+  "pwd": "joeslim1",
+  "admission_year": "2017-01-01T00:00:00.000Z",
+  "reg_no": "17E/0006/CS",
+  "mobile": "08174310668",
+  "gender": true,
+  "avatar_url": "",
+  "project_id": "",
+  "project_partners": [
+    ""
+  ],
+  "project_leader": "",
+  "project_supervisor": "",
+  "reg_date": "6742433810962448385",
+  "account_status": "active",
+  "online_status": "active"
+}
